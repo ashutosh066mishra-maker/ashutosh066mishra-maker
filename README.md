@@ -58,6 +58,7 @@ I'm a passionate developer focused on building modern, responsive web applicatio
 
 * GitHub: https://github.com/your-username
 * LinkedIn: (linkedin.com/in/ashutosh-mishra-230831311)
+* Email. ashutosh660mishra@gmail.com
 
 ---
 
